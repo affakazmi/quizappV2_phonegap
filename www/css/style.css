@@ -1,0 +1,47 @@
+.md-toolbar-tools h1 {
+  font-size: inherit;
+  font-weight: inherit;
+  margin-left: 10px;
+}
+
+.smallSideNav {
+  width: 10%!important;
+}
+
+.greenBack {
+  background-color: #8AC441 !important;
+}
+
+.orangeBack {
+  background-color: #FF9800 !important;
+}
+
+.purpleBack {
+  background-color: #C851DB !important;
+}
+
+.skyblueBack {
+  background-color: #00A7F8 !important;
+}
+
+.blueBack {
+  background-color: #337ab7 !important;
+}
+
+.logoPana {
+    height: 32px;
+    width: 32px;
+}
+
+.clearPadding {
+  padding: 0px !important;
+}
+
+.clearMargin {
+  margin: 0px;
+}
+
+.btn48 {
+  height: 48px;
+  width: 100%;
+}
